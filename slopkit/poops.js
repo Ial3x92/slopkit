@@ -1,4 +1,4 @@
-
+// @egycnq (I rewrote egys impli of poops but 90% of his code is likely still factored in)
 
 export const ERRNO = {
   1: "EPERM",
